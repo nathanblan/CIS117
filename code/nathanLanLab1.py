@@ -28,7 +28,7 @@ Three lab details are:
 #use the format funtion to map variables to parts of text
 print(information.format(last_name, g_number, syl_1, syl_2, lab_detail_1, lab_detail_2, lab_detail_3))
 
-#run
+#output
 '''
 Hello World!
 My last name is Lan
@@ -41,4 +41,3 @@ Three lab details are:
 2. to use meaningful names taken from the problem domain
 3. to incorporate descriptive comments on code functionality
 '''
-#what is this
