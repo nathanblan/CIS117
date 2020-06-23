@@ -1,6 +1,5 @@
 ###########################################################
-# Nathan Lan
-# CIS 117 Python Programming: Lab #1
+# Print student and course information
 # nathanLanLab1.py
 # 6.17.2020
 ###########################################################
