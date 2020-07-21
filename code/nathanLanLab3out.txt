@@ -1,0 +1,12 @@
+Apples                    0.57 
+Binder paper              2.29 
+Cheese                    1.59 
+Lettuce                   2.79 
+Bananas                   3.10 
+Eggs                      2.39 
+Mop                       7.50 
+Scouring pads             5.00 
+Shampoo                   2.54 
+Conditioner               2.79 
+Ice Cream                 5.89 
+Total:                   36.45
